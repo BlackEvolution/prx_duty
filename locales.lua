@@ -1,0 +1,62 @@
+Locales['en'] = {
+    ['loyalEmployee'] = 'No breaks, you have a loyal worker!',
+    ['embedTitle'] = '**SQZ_DUTY: New Duty Report** %s',
+    ['embedDescription'] = 'Employer has ended his today duty, his name is:\n ```yaml\n %s```\n He took breaks in times: ```yaml\n%s```In total time in duty:\n ```yaml\n%s```\n His first join | last leave from job:\n ```yaml\n%s``` Job: ```yaml\n%s```',
+    ['no_spam'] = 'You must wait a little bit before reporting in. No need to spam',
+    ['name'] = 'Name',
+    ['job_grade'] = 'JobGrade',
+    ['duty_time'] = 'Total Time In Duty',
+    ['last_duty'] = 'Last Duty',
+    ['reset_time'] = 'Reset Time',
+    ['not_here'] = 'Employee not here?',
+    ['not_legit'] = 'The worker is not legit!',
+    ['not_worked'] = 'He has not worked yet!',
+    ['blame'] = 'Blame him!',
+    ['report_in'] = '~INPUT_PICKUP~ Report in',
+    ['off_duty'] = '~INPUT_PICKUP~ Go off-duty',
+    ['report'] = '%s [%s] StartTime: %s\n    EndTime: %s\n',
+    ['in_duty'] = 'Now you are on-duty',
+    ['logged_off_duty'] = 'You have logged off-duty'
+}
+
+Locales['cs'] = {
+    ['loyalEmployee'] = 'Zaměstnanec pracoval bez přestávek, dobrá práce!',
+    ['embedTitle'] = '**SQZ_DUTY: Nový záznam* %s',
+    ['embedDescription'] = 'Zaměstnanec ukončil jeho dnešní šichtu, jeho jméno:\n ```yaml\n %s```\n Odpočíval v době: ```yaml\n%s```Čas strávený v práci:\n ```yaml\n%s```\n Příchod do práce | Odchod z práce:\n ```yaml\n%s``` Hodnost: ```yaml\n%s```',
+    ['no_spam'] = 'Hoď se do pohody, spamovat to není třeba',
+    ['name'] = 'Jméno & Příjmení',
+    ['job_grade'] = 'Hodnost',
+    ['duty_time'] = 'Celkový čas strávený ve službě',
+    ['last_duty'] = 'Naposledy ve službě',
+    ['reset_time'] = 'Obnovit čas',
+    ['not_here'] = 'Zaměstnanec zde není?',
+    ['not_legit'] = 'Tu je něco špatně!',
+    ['not_worked'] = 'Tento zaměstnanec ještě nepracoval!',
+    ['blame'] = 'Vyřeš to!',
+    ['report_in'] = '~INPUT_PICKUP~ Jít do služby',
+    ['off_duty'] = '~INPUT_PICKUP~ Jít mimo službu',
+    ['report'] = '%s [%s] Začátek: %s\n     Konec: %s\n',
+    ['in_duty'] = 'Přihlásil ses do služby',
+    ['logged_off_duty'] = 'Odhlásil ses ze služby'
+}
+
+Locales['de'] = {
+    ['loyalEmployee'] = 'Keine Pausen, du hast einen treuen Mitarbeiter!',
+    ['embedTitle'] = '**PRX_DUTY: Neuer Dienstbericht** %s',
+    ['embedDescription'] = 'Employer has ended his today duty, his name is:\n ```yaml\n %s```\n He took breaks in times: ```yaml\n%s```In total time in duty:\n ```yaml\n%s```\n His first join | last leave from job:\n ```yaml\n%s``` Job: ```yaml\n%s```',
+    ['no_spam'] = 'Du musst ein wenig warten, bevor du dich anmeldest. Kein Grund zum Spam',
+    ['name'] = 'Name',
+    ['job_grade'] = 'Job Rang',
+    ['duty_time'] = 'Gesamtzeit im Dienst',
+    ['last_duty'] = 'Letzer Dienst',
+    ['reset_time'] = 'Reset Time',
+    ['not_here'] = 'Mitarbeiter nicht da?',
+    ['not_legit'] = 'Der Arbeiter ist nicht legitim!',
+    ['not_worked'] = 'Er hat noch nicht gearbeitet!',
+    ['blame'] = 'Beschuldige ihn!',
+    ['report_in'] = '~INPUT_PICKUP~ In den Dienst gehen',
+    ['off_duty'] = '~INPUT_PICKUP~ Außer Dienst gehen',
+    ['report'] = '%s [%s] Startzeit: %s\n    Endzeit: %s\n',
+    ['in_duty'] = 'Du bist nun im Dienst',
+    ['logged_off_duty'] = 'Du hast dich abgemeldet'
+}
